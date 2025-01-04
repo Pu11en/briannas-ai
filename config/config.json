@@ -1,0 +1,6 @@
+{
+    "blockchain_nodes": {
+        "ethereum": "http://localhost:8545"
+    },
+    "alert_endpoint": "http://example.com/api/alert"
+}
